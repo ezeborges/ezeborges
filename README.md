@@ -1,4 +1,5 @@
-### Olá! sou o Ezequiel Borges 😉
+# Olá, sou o Ez! 😉
+Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia<br/>
 ## Estudos 📚
 <div>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
