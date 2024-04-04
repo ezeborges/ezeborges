@@ -1,10 +1,11 @@
 # Olá, sou o Ez! 😉
-Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia<br/>
+
+👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia<br/>
 ## Estudos 📚
 <div>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   &nbsp;
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;
