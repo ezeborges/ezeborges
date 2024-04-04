@@ -2,6 +2,7 @@
 
 👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia<br/>
 ## Estudos 📚
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <div>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;
