@@ -1,6 +1,7 @@
 <h1 align="center"> Olá, sou o Ez 😉 </h1>
-
+<h3 align="center">
 👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia
+</h3>
 
 ## Estudos 📚
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges)](https://github.com/anuraghazra/github-readme-stats)
