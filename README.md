@@ -4,7 +4,7 @@ Compartilhando sobre minha jornada e aprendizados em tecnologia, sempre fui um e
 </br></br>Atualmente estou trabalhando em projetos para construtoras, restaurantes e fazendas.
 </h4>
 </br>
-<h2> 📚 Estudos 📖 </h2>
+<h2> Estudos &nbsp;&nbsp;&nbsp; 📖 </h2>
 
 <div align="center">
    <a href="https://github.com/ezeborges">
@@ -41,7 +41,7 @@ Compartilhando sobre minha jornada e aprendizados em tecnologia, sempre fui um e
 
 </div>
 
-<h2> 🏖️ Lazer ⚽ </h2> 
+<h2>  Lazer &nbsp;&nbsp;&nbsp;🏖️ </h2> 
 <div align="center">
    
 ### 🎶 Musica 🎧
@@ -53,7 +53,7 @@ Compartilhando sobre minha jornada e aprendizados em tecnologia, sempre fui um e
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)</br>
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)</br>
 </div>
 
 <h2 align="center"> 📲 Contato 📱 </h2>
