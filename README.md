@@ -4,6 +4,8 @@
 </h3>
 <h2 align="center"> 📚 Estudos 📖 </h2>
 
+<div align="center">
+   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges)](https://github.com/anuraghazra/github-readme-stats)
 ### Editor
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -28,6 +30,9 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
 <h2 align="center"> 🏖️ Lazer ⚽ </h2> 
 <div align="center">
    
