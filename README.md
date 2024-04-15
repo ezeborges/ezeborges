@@ -4,7 +4,7 @@
 
 ## Estudos 📚
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges)](https://github.com/anuraghazra/github-readme-stats)
-### Editor ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+### Editor -> ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ### Linguagens
 ![HTML5](https://img.shields.io/badge/-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-%231572B6.svg?&logo=css3&logoColor=white)
