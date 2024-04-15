@@ -1,4 +1,4 @@
-# Olá, sou o Ez 😉
+<h1 aling="center"> Olá, sou o Ez 😉 </h1>
 
 👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia
 
