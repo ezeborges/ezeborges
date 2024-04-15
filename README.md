@@ -3,7 +3,7 @@
 👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia
 </h3>
 
-## Estudos 📚
+## 📚 &nbsp; Estudos 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges)](https://github.com/anuraghazra/github-readme-stats)
 ### Editor
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
