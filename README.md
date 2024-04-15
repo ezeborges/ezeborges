@@ -6,7 +6,7 @@
 
 <div align="center">
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Editor
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ### Linguagens
