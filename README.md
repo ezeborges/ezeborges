@@ -41,7 +41,7 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-<h2 align="center"> Contato 📱 </h2>
+<h2 align="center"> 📲 Contato 📱 </h2>
 
 <div align="center">
    <a href="https://www.twitch.tv/ezcomq" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
