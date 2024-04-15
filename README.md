@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, sou o Ez 😉 </h1>
+<h1 align="center" background-color="white"> Olá, sou o Ez 😉 </h1>
 <h3 align="center">
 👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia
 </h3>
