@@ -7,14 +7,14 @@
 ### Editor
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ### Linguagens
-![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-%231572B6.svg?&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-3670A0?&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-%23ED8B00.svg?&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-%2300599C.svg?&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-%23777BB4.svg?&logo=php&logoColor=white)
 ### Design 🎨
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
