@@ -4,9 +4,14 @@
 </h3>
 <h2 align="center"> 📚 Estudos 📖 </h2>
 
+<div>
+   <a href="https://github.com/ezeborges">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeborges&hide_compact&theme=dark">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezeborges&show_icons=true&theme=dark">
+   </a>
+</div>
 <div align="center">
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Editor
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ### Linguagens
