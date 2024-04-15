@@ -2,8 +2,7 @@
 <h3 align="center">
 👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia
 </h3>
-
-<h2 align="center"> 📚 &nbsp; Estudos </h2>
+<h2 align="center"> 📚 Estudos </h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges)](https://github.com/anuraghazra/github-readme-stats)
 ### Editor
@@ -29,7 +28,7 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-## Lazer 🏖️
+<h2 align="center"> 🏖️ Lazer </h2> 
 ### Musica 🎧
 ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
