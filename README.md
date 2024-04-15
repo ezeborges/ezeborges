@@ -1,9 +1,10 @@
-<h1 align="center"> Olá, sou o Ez 😉 </h1>
+<h1> Eae sou o Ez 😉 </h1>
 <h4>
 Compartilhando sobre minha jornada e aprendizados em tecnologia, sempre fui um entusiasta no mundo virtual e procuro estar me atualizando sobre assuntos variados no meio, gosto de realizar projetos de videogame para amigos e softwares para pequenas empresas.
 </br></br>Atualmente estou trabalhando em projetos para construtoras, restaurantes e fazendas.
 </h4>
-<h2 align="center"> 📚 Estudos 📖 </h2>
+</br>
+<h2> 📚 Estudos 📖 </h2>
 
 <div align="center">
    <a href="https://github.com/ezeborges">
@@ -40,7 +41,7 @@ Compartilhando sobre minha jornada e aprendizados em tecnologia, sempre fui um e
 
 </div>
 
-<h2 align="center"> 🏖️ Lazer ⚽ </h2> 
+<h2> 🏖️ Lazer ⚽ </h2> 
 <div align="center">
    
 ### 🎶 Musica 🎧
