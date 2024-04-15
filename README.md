@@ -1,7 +1,6 @@
 # Olá, sou o Ez 😉
 
-<p aling="center">👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia</p><br/>
-<h1 aling="center">TESTE</h1>
+👨🏽‍💻Engenheiro de Software compartilhando sobre minha jornada e aprendizados em tecnologia
 
 ## Estudos 📚
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeborges)](https://github.com/anuraghazra/github-readme-stats)
